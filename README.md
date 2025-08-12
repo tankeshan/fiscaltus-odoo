@@ -1,0 +1,1 @@
+# fiscaltus-odoo
